@@ -18,3 +18,5 @@ She is studying to become a pentester.
 Like i said in the introduction, this is just a organization to store codes that we want to share with each other. Theres a possibility that we can create some public repositories but most of them will be private.
 
 Also another warning, we are both portuguese speakers so most of the code will be in Portuguese. If we do create some public repositories, i will translate most of them.
+
+(Portuguese version of this file may be released in the future)
